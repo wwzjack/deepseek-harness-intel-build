@@ -6,7 +6,7 @@ DeepSeek Harness（DSH）官方源码在 **Intel (x86_64) Mac** 上编译的桌�
 
 ## 📦 下载
 
-前往 [Releases](https://github.com/<YOUR_USERNAME>/deepseek-harness-intel-build/releases) 下载最新版：
+前往 [Releases](https://github.com/wwzjack/deepseek-harness-intel-build/releases) 下载最新版：
 
 - `DeepSeek-Harness-Intel-mac-x64.dmg`（约 366MB，Intel Mac 专用）
 
