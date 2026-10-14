@@ -1,0 +1,12 @@
+# 依赖与构建产物
+node_modules/
+dist/
+.desktop-build/
+*.log
+
+# macOS
+.DS_Store
+
+# 编译产物（dmg 走 GitHub Releases，不提交到仓库）
+*.dmg
+*.zip
